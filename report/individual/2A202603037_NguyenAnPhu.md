@@ -4,12 +4,12 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Họ tên: Nguyễn An Phú
+- MSSV: 2A202603037
+- Email: 26ai.phuna@vinuni.edu.vn
+- Lớp: 2A
+- Link repo bài làm: https://github.com/AnPhuNguyen/K5-L2A-Day02-NguyenAnPhu-2A202603037-ObjectDetection.git
+- Link Colab đã chạy:https://colab.research.google.com/drive/19swvUP3wV62aCzDCsuafkPJU_I2s5uab#scrollTo=3e0508d8
 
 ## 2. Schema và mini guideline
 
@@ -17,7 +17,7 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
+- Số file nhãn train: 
 - Kết quả checker và lỗi đã xử lý:
 - Danh sách ít nhất 10 ảnh đã rà bằng mắt:
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
